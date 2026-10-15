@@ -1,0 +1,9 @@
+* Concepto,Símbolo en código (LaTeX)
+* Anualidad Vencida (VP),$a_{\overline{n},}$
+* Anualidad Vencida (VF),$s_{\overline{n},}$
+* Anualidad Anticipada (VP),$\ddot{a}_{\overline{n},}$
+* Anualidad Anticipada (VF),$\ddot{s}_{\overline{n},}$
+* Tasa de interés,$i$
+* Tasa nominal,$i^{(m)}$
+* Factor de descuento,$v^n$
+* Anualidad Anticipada Diferida ($k$ periodos): $_{k|}\ddot{a}_{\overline{n}|i}$
